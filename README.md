@@ -1,2 +1,2 @@
 # caesar-cipher
-Cryptography- encrypt and decrypt functions coded
+Caesar Cipher Cryptography- encrypt and decrypt functions coded
